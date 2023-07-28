@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class atmmachine {
+public class oasistask3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1 if you are a registered user\nEnter 2 if you want to register as a new user");
